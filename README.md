@@ -1,2 +1,1 @@
-# Processing
-Code samples from processing
+# Processing handshake with Arduino
